@@ -9,7 +9,7 @@ app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 last_update_time = None
-UPDATE_INTERVAL = timedelta(minutes=1)
+UPDATE_INTERVAL = timedelta(minutes=5)
 
 @app.route('/')
 def dashboard():
