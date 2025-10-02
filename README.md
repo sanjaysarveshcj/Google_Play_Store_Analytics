@@ -100,6 +100,13 @@ This project is configured for deployment on Render:
 5. **Task 5**: Category-wise performance metrics
 6. **Task 6**: Installation and rating correlation analysis
 
+## Project Dashboard
+
+Here is a screenshot of the dashboard:
+
+![Dashboard Screenshot](templates/images/dashboard.png.png)
+
+
 ## Contributing
 
 1. Fork the repository
